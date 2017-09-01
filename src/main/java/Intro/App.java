@@ -3,6 +3,7 @@ package Intro;
 /**
  * Hello world!
  * A basic example
+ * ONE MORE COMMENT
  */
 public class App 
 {
