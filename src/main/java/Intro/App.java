@@ -2,7 +2,7 @@ package Intro;
 
 /**
  * Hello world!
- *
+ * A basic example
  */
 public class App 
 {
